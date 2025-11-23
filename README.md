@@ -2,6 +2,8 @@
 
 Website : [www.getpynote.net](https://getpynote.net)
 
+**Embed, edit and run Python code and Jupyter Notebooks directly in any HTML page**
+
 To use Pynote, simply add
 ```html
 <script type="module" src="https://cdn.jsdelivr.net/gh/pynote/getpynote/pynote.js"></script>
